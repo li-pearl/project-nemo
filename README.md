@@ -4,7 +4,7 @@
 
 ### [NEMO](https://github.com/li-pearl/nemo) is a user-friendly wearable ML facial recognition memory aid that provides live, in-ear, and discreet reminders of loved ones' names at the push of a button aimed to increase social confidence amongst people living with dementia and Alzheimer's.
 
-*If people with vision loss can wear eyeglasses and people with hearing loss can wear hearing aids, why can't people with memory loss wear memory aids?*
+>*If people with vision loss can wear eyeglasses and people with hearing loss can wear hearing aids, why can't people with memory loss wear memory aids?*
 
 ## Rationale
 
