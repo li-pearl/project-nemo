@@ -19,9 +19,19 @@ Pennsylvania Junior Academy of Science (PJAS):
 
 Capital Area Science and Engineering Fair (CASEF):
 - 🏆 Grand Champion
-  - International Science and Engineering Fair (ISEF) @ Dallas, TX (May 13-19) Qualifier
+  - Regeneron International Science and Engineering Fair (ISEF) @ Dallas, TX Qualifier
 - 🥇 1st Award in Technology, Engineering, and Math
 - Special Awards
+
+Regeneron International Science and Engineering Fair (ISEF):
+- ISEF Finalist
+- NC State College of Engineering Special Award
+
+International BioGENEius Challenge:
+- 🏆 International BioGENEius Challenge Winner
+- At-Large BioGENEius Challenge Winner (International Qualifier)
+  - International BioGENEius Top 13 Finalist
+
 
 ## Press
 
